@@ -5,8 +5,8 @@ let diametro = 25;
 let raio = 12.5;
 
 //Velocidade da bolinha
-let VelocidadeDaBolinhaX = 12;
-let velocidadeDaBolinhaY = 12;
+let VelocidadeDaBolinhaX = 6;
+let velocidadeDaBolinhaY = 6;
 
 //Raquete
 let xRaquete = 5;
@@ -17,7 +17,7 @@ let RaqueteAltura = 90;
 // Raquete Oponente
 let xRaqueteOponente = 585;
 let yRaqueteOponente = 150;
-let velocidadeYOponente;
+let velocidadeYOponente = 0;
 let colidiu=false;
 //Placar
 let meusPontos=0;
